@@ -1,5 +1,5 @@
 # Projeto - One Piece - Semana do Zero ao Programador Contratado!
-Um projeto da semana do Zero ao Programador Contratado.🚀 Onde foi criado uma página interativa do anime One Piece.
+Um projeto da semana do Zero ao Programador Contratado.🚀 Onde foi criada uma página web interativa do anime One Piece.
 
 [<img src="./Animação-One-Piece.gif" alt="gif da tela inicial do projeto One Piece - Semana do Zero ao Programador Contrato">](https://jefter-ferreira.github.io/projeto-one-piece/)
 
